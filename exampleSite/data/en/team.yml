@@ -6,9 +6,10 @@ team:
   - name: Tobias Bayer
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: Director
-    content: Tobias is bringing the teams together and forms the center piece of the
-      LEGO
+    designation: Director, Project Management
+    content: |-
+      Tobias is bringing the teams together and forms the center piece of the LEGO.
+      He has travelled the world on oil and gas projects and decides where "difference makes a difference".
     social:
     - icon: ti-facebook
       link: "#"
