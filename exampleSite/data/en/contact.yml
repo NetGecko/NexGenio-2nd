@@ -13,10 +13,8 @@ contact:
       88845 VAT number: MT25941925"
   - icon: ti-mobile
     info: 'Phone: +49 176 65650910'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: hello@nexgenio.com'
   contact_form:
     enable: true
     form_action: "#"
