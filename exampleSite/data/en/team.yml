@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Sudarak Roolak
+    image_webp: ''
+    image: ''
+    designation: Company Secretary
+    content: Sudarak is our hub for administration and kicks our asses
+    social: ''
   - name: Tobias Bayer
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
