@@ -35,9 +35,9 @@ team:
   - name: Chris Meilia
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: IT-Security Engineer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: Partner Compliance, IT-Security Architect, CISSP
+    content: Chris is advising on any aspect of IT-Security and has tackled a row
+      of public contracts in the US and around the globe.
     social:
     - icon: ti-facebook
       link: "#"
