@@ -23,7 +23,9 @@ team:
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
     designation: Partner, Tender Management
-    content: Holger is our lead advisor for public and private tender management
+    content: Holger is our lead advisor for public and private tender management for
+      our European and international clients. He has his boots on the ground all across
+      Europe with excellent connections in publishing and media.
     social:
     - icon: ti-facebook
       link: "#"
