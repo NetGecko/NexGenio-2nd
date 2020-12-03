@@ -1,11 +1,10 @@
 ---
 skill:
   enable: true
-  title: Our Skills
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  title: Our Focus
+  subtitle: Lets bring things together
+  content: We understand ourselves as a platform where Skills meet like LEGO bricks.
+    We just click together and form a team made for the market of the future.
   image: images/about/company-growth.webp
   skill_item:
   - name: Project Management
